@@ -1,0 +1,2 @@
+# premium-yard-fence-001-yard-fence-section-panel-pos
+Tired of guessing fence post spacing and ending up with wasted materials or uneven sections? This Notion template turns your yard fence project into a precise, craft-like workshop.  Eliminate costly mistakes and design delays with a structured system that calculates panel widths, post intervals, and material lists automatically. Whether you're buil
